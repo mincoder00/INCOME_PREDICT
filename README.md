@@ -1,7 +1,7 @@
 # 데이터 분석 프로젝트: INCOME_PREDICT
 
-[대회 설명: 개인의 특성과 관련된 다양한 데이터를 활용하여 개인 소득 수준을 예측할 수 있는 AI 모델 개발](https://dacon.io/competitions/official/236230/overview/description)  
-**성과**: 42등/772등 (상위 5.4%)
+[대회 설명: 개인의 사회적 특성과 관련된 다양한 데이터를 활용하여 개인 소득 수준을 예측할 수 있는 AI 모델 개발](https://dacon.io/competitions/official/236230/overview/description)  
+**성과: 42등/772등 (상위 5.4%)**
 
 ## 프로젝트 개요
 주어진 사회적 특성 데이터를 기반으로 개인 소득을 예측하는 회귀 프로젝트를 진행하였습니다.  
